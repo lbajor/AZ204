@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LBAZ204Demo2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7075",
+      "launchBrowser": false
+    }
+  }
+}
